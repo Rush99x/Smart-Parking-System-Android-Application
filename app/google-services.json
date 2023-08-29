@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815821828677",
+    "firebase_url": "https://parkingsystemapplication-e75de-default-rtdb.firebaseio.com",
+    "project_id": "parkingsystemapplication-e75de",
+    "storage_bucket": "parkingsystemapplication-e75de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815821828677:android:f6b6e9137d74049a86a92c",
+        "android_client_info": {
+          "package_name": "com.parkingsystemapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815821828677-kh0f4fpne5q1u0lgpsd6bjij5efu37ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDs2HpD_eErUcantuKQoojdNHbd0fH6mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815821828677-kh0f4fpne5q1u0lgpsd6bjij5efu37ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
